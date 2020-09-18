@@ -1,0 +1,46 @@
+/* .fa-credit-card {
+    font-family: 'Kumbh Sans', 'Serif';
+} */
+
+.nav-item, .list-group, .specialdash, .light {
+    font-family: 'Kumbh Sans', 'Serif';
+}
+
+
+.fa-credit-card, .fa-accusoft {
+    color: crimson;
+}
+
+.fa-facebook-f, .fa-twitter{
+    color: #3b5998;
+}
+
+.fa-facebook-f:hover, .fa-twitter:hover, .nav-item:hover{
+    color: #d5d5d5;
+
+}
+
+.fa-map {
+    color: darkblue;
+}
+
+.card, .form-control {
+    font-family: 'Roboto Mono', 'Serif'
+}
+
+.card:hover {
+        box-shadow: 0 0px 0px 15px rgba(0, 0, 0, 0.1);
+      
+}
+
+.mr-3:hover,.list-group-item:hover {
+    background-color:  #d5d5d5;
+    border: 1px solid #563d7c;
+}
+
+/* .btn-outline-secondary:hover {
+    background-color: darkorchid;
+} */
+.btn:hover {
+    background-color: darkorchid;
+}
